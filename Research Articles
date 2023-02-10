@@ -33,3 +33,7 @@ Theirr CNN-based SFW/NSFW classier is composed by two modules:
 1. Feature Extractor
 2. Classifier
 Once we have extracted the features from the video, we then use a shallow model to performthe video classication. 
+
+# Strategy 3
+Model Name: MobileNetV3
+Article: https://arxiv.org/pdf/2107.11845.pdf
