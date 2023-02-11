@@ -7,4 +7,4 @@
 # Image 2
 ![plot](./Images/makeup.jpg)
 ## Results
-![plot](./Images/output2.PNG.png)
+![plot](./Images/output2.PNG)
