@@ -37,3 +37,5 @@ Once we have extracted the features from the video, we then use a shallow model 
 # Strategy 3
 Model Name: MobileNetV3
 Article: https://arxiv.org/pdf/2107.11845.pdf
+
+General: https://github.com/abbasidaniyal/Wikimedia-NSFW-Classifier-Reports/blob/dc7a4192eda23b067c85a131f5502514b9bf4222/reports/Abhipsha%20Das%20-%20Microtasks/T264056%20-%20NSFW%20Classifiers%20Comparison.ipynb
