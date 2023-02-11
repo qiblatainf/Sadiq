@@ -1,4 +1,3 @@
-# Image 1
 
 # Image 2
 ![plot](./Images/makeup.jpg)
